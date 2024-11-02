@@ -21,7 +21,7 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 </tr>
 <tr>
 		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,bootstrap,express,firebase,mongodb" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=java,python,c&theme=dark"></td>
+		<td><img src = "https://skillicons.dev/icons?i=kotlin,python,javascript&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Cybersecurity&Cloud</strong></td>
